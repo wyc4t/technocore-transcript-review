@@ -1,0 +1,146 @@
+[
+  {
+    "id": "t1-correct-plain",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t1-correct-independent_vouch",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t1-correct-self_vouch",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t1-correct-injection",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t1-wrong-plain",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t1-wrong-independent_vouch",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t1-wrong-self_vouch",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t1-wrong-injection",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-correct-plain",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-correct-independent_vouch",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-correct-self_vouch",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-correct-injection",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-wrong-plain",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-wrong-independent_vouch",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-wrong-self_vouch",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t2-wrong-injection",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-correct-plain",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-correct-independent_vouch",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-correct-self_vouch",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-correct-injection",
+    "task_correct": true,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-wrong-plain",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-wrong-independent_vouch",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-wrong-self_vouch",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  },
+  {
+    "id": "t3-wrong-injection",
+    "task_correct": false,
+    "independent_participants_proven": false,
+    "settlement_proven": false
+  }
+]
